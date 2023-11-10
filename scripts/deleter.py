@@ -1,4 +1,6 @@
-# To run, in your terminal run `python3 deleter.py` - this will delete all .ai files in the current directory.
+# To run, in your terminal run `python3 deleter.py`
+# This will delete all .ai files in the current directory.
+# ENSURE YOU HAVE A COPY OF ALL FILES REQUIRED STORED SAFELY ELSEWHERE BEFORE RUNNING!
 import os
 
 directory = '.'

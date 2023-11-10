@@ -1,3 +1,6 @@
+# To run, in your terminal run `python3 convert_in_subfolders.py` - this will convert all .ai files to .svg in the current directory,
+# as well as any subfolders that also contain .ai files.
+# Names of .ai files must have no spaces in them, otherwise conversion will fail.
 import os
 
 def convert_ai_to_svg(directory='.'):

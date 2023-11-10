@@ -1,6 +1,6 @@
 # To run, in your terminal run `python3 superconvert.py` - this will replace all spaces in file names with underscores,
 # convert all .ai files to .svg, then delete all .ai files and this superconvert.py file.
-# ENSURE YOU HAVE COPY OF THIS FILE SAFELY STORED BEFORE RUNNING!
+# ENSURE YOU HAVE A COPY OF ALL FILES REQUIRED STORED SAFELY ELSEWHERE BEFORE RUNNING!
 import os
 
 
